@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.1.12
-Release:        1
+Release:        2
 Summary:        Partial replacement for std::time::Instant that works on WASM too
 
 # Upstream license specification: BSD-3-Clause
