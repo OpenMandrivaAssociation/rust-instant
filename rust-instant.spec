@@ -4,8 +4,8 @@
 %global crate instant
 
 Name:           rust-%{crate}
-Version:        0.1.12
-Release:        2
+Version:        0.1.13
+Release:        1
 Summary:        Partial replacement for std::time::Instant that works on WASM too
 
 # Upstream license specification: BSD-3-Clause
